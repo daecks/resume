@@ -1,6 +1,6 @@
 My resume.
 
-Compilable in Ubuntu via installing texlive, and all packages:
+To build, install texlive:
 `sudo apt-get install texlive-full`
 
 To convert to PDF:
